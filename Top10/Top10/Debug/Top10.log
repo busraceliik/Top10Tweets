@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\busra\source\repos\top10\top10\hashbuilder.h(56): warning C4018: '<': signed/unsigned mismatch
+  c:\users\busra\source\repos\top10\top10\hashbuilder.h(54): note: while compiling class template member function 'unsigned int HashBuilder<std::string,int>::HashCode(const std::string &)'
+  c:\users\busra\source\repos\top10\top10\hashbuilder.h(68): note: see reference to function template instantiation 'unsigned int HashBuilder<std::string,int>::HashCode(const std::string &)' being compiled
+  c:\users\busra\source\repos\top10\top10\main.cpp(25): note: see reference to class template instantiation 'HashBuilder<std::string,int>' being compiled
+  Top10.vcxproj -> C:\Users\Busra\source\repos\Top10\Debug\Top10.exe
